@@ -1,3 +1,3 @@
 # My resume
 
-Hi! I am Promothash Boruah and this is my resume
+Hi! I am Promothash Boruah, a programmer who loves writing and contributing to the various projects.
