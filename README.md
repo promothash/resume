@@ -1,3 +1,3 @@
-# Promothash Boruah Resume
+# Promothash Boruah
 
 Hi! I am Promothash Boruah, a programmer who loves writing and contributing to the various projects.
